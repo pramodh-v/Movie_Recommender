@@ -1,4 +1,4 @@
-## Movie Recommender Using Cosine Similarity
+# Movie Recommender Using Cosine Similarity
 Content Based Recommender System which recommends movies similar to the movie.
 
 # How to get the API key?
